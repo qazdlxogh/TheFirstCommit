@@ -1,2 +1,2 @@
-email :
-gitID :
+email : qazdlxogh@daum.net
+gitID : qazdlxogh
